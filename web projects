@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title id="title">the acheivment and life of Alan Turing</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="styles.css" href="beautify.format"/> 
+</head>
+    <body>
+        <main id="main">
+            <div id="img-div"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.newyorker.com%2Fphotos%2F5e2330c74156f60008818e30%2F2%3A2%2Fw_1786%2Ch_1786%2Cc_limit%2FGrimstad-Turing.jpg&f=1&nofb=1">
+            </img><figcaption id="id-caption">Alan Turing the father of modern computers</figcaption></div>
+            <h1 id="tribute-intro">Alan Turing is a mathmatician who was the first and only person to create a machine capable of breaking the enigma code and saving millions of lives.
+                He also was the man who due to his invention would lead to the creation and exploration of modern computer science.
+            </h1>
+            <h1 id="tribute-heading">this is the timeline of his life</h1>
+            <ul id="tribute-list">
+                <li class="NewRoman">1912-He was born in london.</li>
+                <li class="NewRoman">1918-He was enrolled in St Michael's day school in Hastings</li>
+                <li class="NewRoman">1922-He then was enrolled in Hazelhurst Preparatory School</li>
+                <li class="NewRoman">1926-1931-he went to Sherborne School</li>
+                <li class="NewRoman">1931-1934-King's College, Cambridge, as mathematics scholar.</li>
+                <li class="NewRoman">1935-Was elected fellow of Kings College for his dissertation “Central Limit Theorem of Probability”</li>
+                <li class="NewRoman">1936/1938-He went to Princeton University and got his PhD</li>
+                <li class="NewRoman">1939-Hut 8 Turing created sequnetial analysis and solved an essential part of the german naval system</li>
+                <li class="NewRoman">1940-He created the first cryptoanalytic machine called Bombe</li>
+                <li class="NewRoman">1942-He travels to the US to make the US version of Bombe</li>
+                <li class="NewRoman">1946-He presented a paper about the first stored program computer setup</li>
+                <li class="NewRoman">1947-He lived in Hampton to create ACE(Automated Computer Engine)</li>
+                <li class="NewRoman">1948-He created the LU decomposition method and which is used to solve matrix equations</li>
+                <li class="NewRoman">1950-He created the Turing test</li>
+                <li class="NewRoman">1952-He was charged for indecency and also published a book called the "The Chemical Basis of Morphogenesis"</li>
+                <li class="NewRoman">1954-He passed away</li>
+            </ul>
+        </main>
+    </body>
+</html>
